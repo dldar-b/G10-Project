@@ -46,3 +46,26 @@ All_Service_Company/
 ## 🧩 Conclusion
 All Service Company aims to make daily life simpler by providing a safe, verified, and efficient system.  
 It builds trust, saves time, and supports professionals — a foundation for future digital expansion.
+
+
+---
+
+# 🧩 (Assignment 3) – Requirements Analysis & Validation 
+
+This section covers the documentation and deliverables for **Assignment 3**  
+as requested by **Dr. Abdulbasit Kamil Faeq Al-Talabani**.
+
+All related files are located inside the [`docs/`](docs) folder.
+
+| File | Description |
+|------|--------------|
+| [`TEAM_INFO.md`](docs/TEAM_INFO.md) | Team members and their roles |
+| [`REQUIREMENTS.md`](docs/REQUIREMENTS.md) | Requirements elicitation and classification |
+| [`USE_CASES.md`](docs/USE_CASES.md) | Use case descriptions and UML diagram |
+| [`PRIORITIZATION.md`](docs/PRIORITIZATION.md) | Requirements prioritization (MoSCoW) |
+| [`REQUIREMENTS_VALIDATION.md`](docs/REQUIREMENTS_VALIDATION.md) | Validation, risks, and mitigation |
+| [`LINK.md`](docs/LINK.md) | GitHub repository link |
+
+**Group G10 – HomeService App**  
+**Semester:** 2025  
+**Course:** Requirements Engineering & Specification
