@@ -1,31 +1,23 @@
 # 🏢 All Service Company
+Instructor:Abdulbasit Faeq  
+Group ID:G_10  
 
-### 📚 University of Kurdistan Hawler  
-**Course:** Software Engineering and Development  
-**Instructor:** Abdulbasit Faeq  
-**Group ID:** G_10  
+#📖 Project Overview
 
----
-
-## 📖 Project Overview
-
-All Service Company is a web-based platform that connects users with **trusted and verified service providers** across different industries.  
+All Service Company is a web-based platform that connects users with "trusted and verified service providers"across different industries.  
 It helps people easily find, request, and manage services in one place — making daily life faster, easier, and more reliable.
 
 Our mission is to simplify daily living by building a **safe and transparent bridge** between clients and professionals through verified accounts and real-time communication.
 
----
 
-## 🎯 Project Goals
+# 🎯 Project Goals
 
-- Build a **trusted all-in-one marketplace** for services.  
-- Provide **secure and verified** service providers.  
-- Enable **user reviews, ratings, and transparency**.  
+- Build a trusted all-in-one marketplace for services.  
+- Provide secure and verified service providers.  
+- Enable user reviews, ratings, and transparency.  
 - Help local professionals find more job opportunities.  
 
----
-
-## 🧱 Repository Structure
+# 🧱 Repository Structure
 
 ```text
 All_Service_Company/
