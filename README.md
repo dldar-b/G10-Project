@@ -66,7 +66,6 @@ All related files are located inside the [`docs/`](docs) folder.
 | [`REQUIREMENTS_VALIDATION.md`](docs/REQUIREMENTS_VALIDATION.md) | Validation, risks, and mitigation |
 | [`LINK.md`](docs/LINK.md) | GitHub repository link |
 
-**Instructor:** Abdulbasit Faeq
-
+**Instructor:** Abdulbasit Faeq 
 **Group G10 – HomeService App**  
 **Course:** Requirements Engineering & Specification
