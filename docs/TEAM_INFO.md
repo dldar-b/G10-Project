@@ -1,7 +1,7 @@
 # 👥 Team Members & Roles
 
 **Group:** G10  
-**Instructor:** Dr. Mona  
+**Instructor:** Dr. Abdulbasit Kamil Faeq Al-Talabani.
 
 | Name | Role |
 |------|------|
