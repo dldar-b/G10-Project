@@ -1,6 +1,6 @@
 # 📚 Assignment 3 – Requirements Documentation
 
-This folder contains all the required deliverables for **Step 3** of Dr. Mona’s assignment.
+This folder contains all the required deliverables for Assignment 3 of Dr.Abdulbasit's assignment.
 
 ---
 
