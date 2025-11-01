@@ -3,7 +3,6 @@
 **Instructor:** Abdulbasit Faeq  
 **Group ID:** G-10  
 **Project:** All Service Company  
-**GitHub Repository:** https://github.com/dldar-b/G10-Project/blob/main/All-Service-company  
 **Students:** Omar Emad, Rekar Muhammed, Abdulla Bestun, Dldar Bahri, Mahmood Kosrat  
 
 ---
