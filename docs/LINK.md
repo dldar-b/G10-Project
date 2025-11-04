@@ -1,6 +1,6 @@
 # 🔗 GitHub Repository Link
 
-This is the official repository for **Group G10 – HomeService App (Step 3)**  
+This is the official repository for **Group G10 – HomeService App (Assignment 3)**  
 for the Requirements Engineering & Specification course.
 
 **Instructor:** Dr. Abdulbasit Kamil Faeq Al-Talabani  
