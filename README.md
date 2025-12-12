@@ -49,43 +49,22 @@ It builds trust, saves time, and supports professionals — a foundation for fut
 
 ## Assignment 4 – System Design & UML Modelling
 
-In Assignment 4, we designed the HomeService App using UML diagrams based on the validated requirements.
+This assignment focuses on designing the HomeService App using UML diagrams based on the requirements defined in Assignment 3.
 
-### Use Case Diagram
-![Use Case Diagram](images/usecase.png)
+### Use Case Diagram (Omar Emad)
+![Use Case Diagram](images/Picture1.jpg)
 
-### Class Diagram
-![Class Diagram](images/class-diagram.png)
+### Class Diagram (Abdulla Beston)
+![Class Diagram](images/Picture2.jpg)
 
-### Sequence Diagram – Book a Service
-![Sequence Diagram](images/sequence-booking.png)
+### Sequence Diagram – Book a Service (Omar Emad)
+![Sequence Diagram](images/Picture3.png)
 
-### State Diagram – Booking Lifecycle
-![State Diagram](images/state-booking.png)
+### State Diagram – Booking Lifecycle (Dldar Bahri)
+![State Diagram](images/Picture4.png)
 
-### Component Diagram
-![Component Diagram](images/component-diagram.png)
+### Component Diagram (Mahmud Kosrat)
+![Component Diagram](images/Picture5.jpg)
 
-### Deployment Diagram
-![Deployment Diagram](images/deployment-diagram.png)
-
-
-## Assignment 5 – Architecture, Design Patterns, Interfaces & Testing
-
-In Assignment 5, we explained the architecture and prepared a testing strategy for the HomeService App.
-
-### Architecture Design
-We used a Client–Server architecture combined with a layered structure to support security, scalability, and performance.
-
-### Design Patterns
-- MVC pattern for separating UI from business logic.
-- Observer pattern for notifications when booking status changes.
-
-### Interface Design
-We defined the Booking Service interface to keep the system modular and easy to integrate and test.
-
-### Testing Strategy
-We planned unit testing, integration testing, and system testing scenarios based on the main system use cases.
-
-### Inspection & Quality Assurance
-We reviewed the design, identified possible defects and risks, and defined acceptance criteria to ensure quality.
+### Deployment Diagram (Rekar Mhamad)
+![Deployment Diagram](images/Picture6.jpg)
