@@ -12,7 +12,7 @@ They explain:
 
 
 ## Team roles (who did what)
-- **Omar Emad**: Use Case Diagram + Sequence Diagram 3 + Sequence Diagram 3.1
+- **Omar Emad**: Use Case Diagram + Sequence Diagram V1 + Sequence Diagram V2
 - **Abdulla Beston**: Class Diagram
 - **Dldar Bahri**: State Diagram
 - **Mahmud Kosrat**: Component Diagram
@@ -26,7 +26,7 @@ They explain:
 
 ---
 
-## 1) Use Case Diagram — (Omar Emad)
+## 1) Use Case Diagram — By: (Omar Emad)
 **File:** `Picture1.jpg`
 
 This diagram shows how the main actors (Customer, Service Provider, Admin) interact with the system and what functions the system provides.
@@ -35,7 +35,7 @@ This diagram shows how the main actors (Customer, Service Provider, Admin) inter
 
 ---
 
-## 2) Class Diagram — (Abdulla Beston)
+## 2) Class Diagram — By: (Abdulla Beston)
 **File:** `Picture2.jpg`
 
 This diagram describes the system structure and main entities such as users, services, bookings, payments, reviews, and notifications, including relationships between them.
@@ -44,7 +44,7 @@ This diagram describes the system structure and main entities such as users, ser
 
 ---
 
-## 3) Sequence Diagram 3 — (Omar Emad)
+## 3) Sequence Diagram 3 — By: (Omar Emad)
 **File:** `Picture3.png`
 
 This sequence diagram explains one main system scenario step by step (based on the assignment report).
@@ -53,7 +53,7 @@ This sequence diagram explains one main system scenario step by step (based on t
 
 ---
 
-## 4) Sequence Diagram 3.1 — (Omar Emad)
+## 4) Sequence Diagram 3.1 — By: (Omar Emad)
 **File:** `Picture4.png`
 
 This sequence diagram represents the second scenario (because we have two sequence diagrams).
@@ -62,7 +62,7 @@ This sequence diagram represents the second scenario (because we have two sequen
 
 ---
 
-## 5) State Diagram – Booking Lifecycle — (Dldar Bahri)
+## 5) State Diagram – Booking Lifecycle — By: (Dldar Bahri)
 **File:** `Picture5.jpg`
 
 This diagram shows the booking lifecycle and how it moves between states (for example: Pending → Confirmed → InProgress → Completed / Cancelled).
@@ -71,7 +71,7 @@ This diagram shows the booking lifecycle and how it moves between states (for ex
 
 ---
 
-## 6) Deployment Diagram — (Rekar Mhamad)
+## 6) Deployment Diagram — By: (Rekar Mhamad)
 **File:** `Picture6.jpg`
 
 This diagram shows the physical deployment environment where user devices access servers and external services.
@@ -80,7 +80,7 @@ This diagram shows the physical deployment environment where user devices access
 
 ---
 
-## 7) Component Diagram — (Mahmud Kosrat)
+## 7) Component Diagram — By: (Mahmud Kosrat)
 **File:** `Picture7.jpg`
 
 This diagram presents the system’s logical components (client layer, backend modules, database, and external services).
