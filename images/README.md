@@ -21,9 +21,6 @@ They explain:
 
 ## Diagram list (current filenames)
 
-> Note: Filenames are currently generic (Picture1..).  
-> We keep them to avoid broken links.
-
 ---
 
 ## 1) Use Case Diagram — By: (Omar Emad)
